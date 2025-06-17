@@ -1,0 +1,29 @@
+This repository contains the user journey flow and wireframe prototype for the fictional fitness app "FitStart" as part of SkillCraft Technology Internship Task 4.
+
+## 🔍 Objective
+To create a seamless onboarding experience for new users, guiding them from welcome screen to fitness goal selection.
+
+## 📂 Structure
+- `assets/` - Contains image assets and wireframes
+- `prototype/` - Includes low-fidelity prototype files (e.g. Figma/Adobe XD)
+- `README.md` - Project overview
+
+## 📌 Screens Covered
+- Welcome Screen
+- Onboarding Slides
+- Sign Up/Login
+- Profile Setup
+- Goal Selection
+- Summary
+
+## 📎 How to View
+Click the [Figma Prototype](#) or download and open the prototype files.
+
+## 🛠️ Tools Used
+- Figma (or Adobe XD)
+
+---
+
+## 📫 Contact
+Created by: [Your Name]  
+Internship Track: UI/UX Design
